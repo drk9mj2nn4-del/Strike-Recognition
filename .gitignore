@@ -1,0 +1,26 @@
+.venv/
+.venv-recovery/
+.cache/
+__pycache__/
+*.py[cod]
+.DS_Store
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+outputs/*
+!outputs/.gitkeep
+/offline/wheels/
+/offline/books/
+/offline/references/
+
+# Contexto pessoal, histórico e materiais locais de colaboração.
+/AGENTS.md
+/STATE.md
+/STEPS.md
+/OFFLINE_GUIDE.md
+/PUBLICATION_REVIEW.md
+/offline/*
+!/offline/SOURCES.md
+
+
